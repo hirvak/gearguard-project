@@ -184,29 +184,3 @@ These insights help improve planning and efficiency.
 * Web-based UI (Kanban, Calendar)
 
 ---
-
-## 🚀 Possible Future Enhancements
-
-* Integration with Manufacturing Work Centers
-* Automated warranty expiry alerts
-* Predictive maintenance using analytics
-* Custom dashboards and reports
-* Role-based user access control
-
----
-
-## ✅ Project Status
-
-✔ Equipment management implemented
-✔ Maintenance teams configured
-✔ Corrective and preventive workflows working
-✔ Kanban and calendar views active
-✔ Smart buttons and scrap logic implemented
-
-**Project is complete and ready for demo/submission.**
-
----
-
-
-
-Just tell me 👍
